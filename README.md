@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0827-making-a-large-island](https://github.com/abdul-rahman18/Leetcode/tree/master/0827-making-a-large-island) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abdul-rahman18/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/abdul-rahman18/Leetcode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -82,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/abdul-rahman18/Leetcode/tree/master/3174-clear-digits) |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/abdul-rahman18/Leetcode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 <!---LeetCode Topics End-->
