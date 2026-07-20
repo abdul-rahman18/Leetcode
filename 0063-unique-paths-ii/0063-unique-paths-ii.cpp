@@ -1,6 +1,6 @@
 class Solution {
 public:
-    //Recursion
+    //Memoization
     int path(vector<vector<int>>& obstacleGrid, int i, int j, vector<vector<int>>& dp)
     {
         int n = obstacleGrid.size();
