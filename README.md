@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/abdul-rahman18/Leetcode/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/0213-house-robber-ii) |
 | [0827-making-a-large-island](https://github.com/abdul-rahman18/Leetcode/tree/master/0827-making-a-large-island) |
+| [1463-cherry-pickup-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abdul-rahman18/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/abdul-rahman18/Leetcode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 ## Depth-First Search
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abdul-rahman18/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0827-making-a-large-island](https://github.com/abdul-rahman18/Leetcode/tree/master/0827-making-a-large-island) |
+| [1463-cherry-pickup-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abdul-rahman18/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/abdul-rahman18/Leetcode/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/abdul-rahman18/Leetcode/tree/master/0279-perfect-squares) |
+| [1463-cherry-pickup-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/1463-cherry-pickup-ii) |
 ## Stack
 |  |
 | ------- |
