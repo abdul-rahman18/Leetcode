@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/abdul-rahman18/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/abdul-rahman18/Leetcode/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/0213-house-robber-ii) |
+| [0485-max-consecutive-ones](https://github.com/abdul-rahman18/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0827-making-a-large-island](https://github.com/abdul-rahman18/Leetcode/tree/master/0827-making-a-large-island) |
 | [1463-cherry-pickup-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abdul-rahman18/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
