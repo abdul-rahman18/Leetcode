@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abdul-rahman18/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/abdul-rahman18/Leetcode/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/0213-house-robber-ii) |
 | [0485-max-consecutive-ones](https://github.com/abdul-rahman18/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0827-making-a-large-island](https://github.com/abdul-rahman18/Leetcode/tree/master/0827-making-a-large-island) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abdul-rahman18/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/abdul-rahman18/Leetcode/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/abdul-rahman18/Leetcode/tree/master/0279-perfect-squares) |
 | [1463-cherry-pickup-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/1463-cherry-pickup-ii) |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abdul-rahman18/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
