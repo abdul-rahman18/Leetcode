@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/abdul-rahman18/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/abdul-rahman18/Leetcode/tree/master/0062-unique-paths) |
 | [0279-perfect-squares](https://github.com/abdul-rahman18/Leetcode/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/abdul-rahman18/Leetcode/tree/master/0486-predict-the-winner) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/abdul-rahman18/Leetcode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/abdul-rahman18/Leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
