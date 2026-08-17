@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abdul-rahman18/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/abdul-rahman18/Leetcode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [2187-minimum-time-to-complete-trips](https://github.com/abdul-rahman18/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abdul-rahman18/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/abdul-rahman18/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/abdul-rahman18/Leetcode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2187-minimum-time-to-complete-trips](https://github.com/abdul-rahman18/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abdul-rahman18/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
