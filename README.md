@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abdul-rahman18/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/abdul-rahman18/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abdul-rahman18/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abdul-rahman18/Leetcode/tree/master/0242-valid-anagram) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/abdul-rahman18/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/abdul-rahman18/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2965-find-missing-and-repeated-values](https://github.com/abdul-rahman18/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/abdul-rahman18/Leetcode/tree/master/0242-valid-anagram) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/abdul-rahman18/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abdul-rahman18/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/abdul-rahman18/Leetcode/tree/master/3174-clear-digits) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abdul-rahman18/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abdul-rahman18/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abdul-rahman18/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abdul-rahman18/Leetcode/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/abdul-rahman18/Leetcode/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
