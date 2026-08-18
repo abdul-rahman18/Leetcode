@@ -6,7 +6,7 @@ public:
         unordered_set<int>st;
         for(int i = 0 ; i < n ; i++){
 
-            if(st.find(nums[i]) != st.end()) return true;
+            if(st.count(nums[i])) return true;
 
             st.insert(nums[i]);
         }
