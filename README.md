@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abdul-rahman18/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/abdul-rahman18/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/abdul-rahman18/Leetcode/tree/master/0217-contains-duplicate) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/abdul-rahman18/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/abdul-rahman18/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2965-find-missing-and-repeated-values](https://github.com/abdul-rahman18/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abdul-rahman18/Leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abdul-rahman18/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/abdul-rahman18/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/abdul-rahman18/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/abdul-rahman18/Leetcode/tree/master/0486-predict-the-winner) |
 | [0827-making-a-large-island](https://github.com/abdul-rahman18/Leetcode/tree/master/0827-making-a-large-island) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abdul-rahman18/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abdul-rahman18/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/abdul-rahman18/Leetcode/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/abdul-rahman18/Leetcode/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
