@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abdul-rahman18/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/abdul-rahman18/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/abdul-rahman18/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abdul-rahman18/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abdul-rahman18/Leetcode/tree/master/0242-valid-anagram) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abdul-rahman18/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/abdul-rahman18/Leetcode/tree/master/0242-valid-anagram) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/abdul-rahman18/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abdul-rahman18/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abdul-rahman18/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/abdul-rahman18/Leetcode/tree/master/0031-next-permutation) |
+| [0049-group-anagrams](https://github.com/abdul-rahman18/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/abdul-rahman18/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abdul-rahman18/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abdul-rahman18/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/abdul-rahman18/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abdul-rahman18/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abdul-rahman18/Leetcode/tree/master/0217-contains-duplicate) |
