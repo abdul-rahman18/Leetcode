@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/abdul-rahman18/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/abdul-rahman18/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Array
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abdul-rahman18/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/abdul-rahman18/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/abdul-rahman18/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/abdul-rahman18/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/abdul-rahman18/Leetcode/tree/master/0486-predict-the-winner) |
 | [0827-making-a-large-island](https://github.com/abdul-rahman18/Leetcode/tree/master/0827-making-a-large-island) |
