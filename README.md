@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/abdul-rahman18/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [3174-clear-digits](https://github.com/abdul-rahman18/Leetcode/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
@@ -172,12 +173,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/abdul-rahman18/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/abdul-rahman18/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/abdul-rahman18/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/abdul-rahman18/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abdul-rahman18/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/abdul-rahman18/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/abdul-rahman18/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/abdul-rahman18/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/abdul-rahman18/Leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/abdul-rahman18/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/abdul-rahman18/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/abdul-rahman18/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/abdul-rahman18/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/abdul-rahman18/Leetcode/tree/master/0705-design-hashset) |
 ## Design
 |  |
