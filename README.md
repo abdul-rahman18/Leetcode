@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abdul-rahman18/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abdul-rahman18/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abdul-rahman18/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/abdul-rahman18/Leetcode/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abdul-rahman18/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/abdul-rahman18/Leetcode/tree/master/0169-majority-element) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abdul-rahman18/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/abdul-rahman18/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abdul-rahman18/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/abdul-rahman18/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -276,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abdul-rahman18/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abdul-rahman18/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abdul-rahman18/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
