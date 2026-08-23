@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abdul-rahman18/Leetcode/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/abdul-rahman18/Leetcode/tree/master/0705-design-hashset) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/abdul-rahman18/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/abdul-rahman18/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/abdul-rahman18/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2965-find-missing-and-repeated-values](https://github.com/abdul-rahman18/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abdul-rahman18/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/abdul-rahman18/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/abdul-rahman18/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0705-design-hashset](https://github.com/abdul-rahman18/Leetcode/tree/master/0705-design-hashset) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/abdul-rahman18/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
