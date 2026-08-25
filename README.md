@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/abdul-rahman18/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/abdul-rahman18/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/abdul-rahman18/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/abdul-rahman18/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2963-count-the-number-of-good-partitions](https://github.com/abdul-rahman18/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [2965-find-missing-and-repeated-values](https://github.com/abdul-rahman18/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abdul-rahman18/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/abdul-rahman18/Leetcode/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/abdul-rahman18/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/abdul-rahman18/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/abdul-rahman18/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/abdul-rahman18/Leetcode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abdul-rahman18/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abdul-rahman18/Leetcode/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/abdul-rahman18/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
