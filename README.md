@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/abdul-rahman18/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/abdul-rahman18/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/abdul-rahman18/Leetcode/tree/master/0486-predict-the-winner) |
+| [0605-can-place-flowers](https://github.com/abdul-rahman18/Leetcode/tree/master/0605-can-place-flowers) |
 | [0705-design-hashset](https://github.com/abdul-rahman18/Leetcode/tree/master/0705-design-hashset) |
 | [0827-making-a-large-island](https://github.com/abdul-rahman18/Leetcode/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/abdul-rahman18/Leetcode/tree/master/0877-stone-game) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/abdul-rahman18/Leetcode/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/abdul-rahman18/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abdul-rahman18/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
