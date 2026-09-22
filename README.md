@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/abdul-rahman18/Leetcode/tree/master/0705-design-hashset) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/abdul-rahman18/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/abdul-rahman18/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1207-unique-number-of-occurrences](https://github.com/abdul-rahman18/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/abdul-rahman18/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abdul-rahman18/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/abdul-rahman18/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/abdul-rahman18/Leetcode/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/abdul-rahman18/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/abdul-rahman18/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1207-unique-number-of-occurrences](https://github.com/abdul-rahman18/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abdul-rahman18/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/abdul-rahman18/Leetcode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/1463-cherry-pickup-ii) |
