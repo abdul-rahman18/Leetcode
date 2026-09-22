@@ -13,17 +13,17 @@ public:
 
         if(n != x.size()) return false;
 
-        unordered_map<char,string>mp;
-        unordered_set<string>st;
+        unordered_map<string,char>mp;
+        bool used[27] = {false};
         for(int i = 0; i < n; i++){
-            if(mp.find(pattern[i]) != mp.end()){
-                if(mp[pattern[i]] != x[i]) return false;
+            if(mp.find(x[i]) != mp.end()){
+                if(mp[x[i]] != pattern[i]) return false;
             }
-            else
-            {
-                if(st.count(x[i])) return false;
-                mp[pattern[i]] = x[i];
-                st.insert(x[i]);
+            else{
+                if(used[pattern[i] - 'a']) return false;
+
+                mp[x[i]] = pattern[i];
+                used[pattern[i] - 'a'] = 1;
             }
         }
 
