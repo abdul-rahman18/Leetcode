@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abdul-rahman18/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abdul-rahman18/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abdul-rahman18/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/abdul-rahman18/Leetcode/tree/master/0290-word-pattern) |
 | [0705-design-hashset](https://github.com/abdul-rahman18/Leetcode/tree/master/0705-design-hashset) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/abdul-rahman18/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/abdul-rahman18/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abdul-rahman18/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/abdul-rahman18/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/abdul-rahman18/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/abdul-rahman18/Leetcode/tree/master/0290-word-pattern) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/abdul-rahman18/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abdul-rahman18/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abdul-rahman18/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
