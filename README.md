@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/abdul-rahman18/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abdul-rahman18/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/abdul-rahman18/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2336-smallest-number-in-infinite-set](https://github.com/abdul-rahman18/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2963-count-the-number-of-good-partitions](https://github.com/abdul-rahman18/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [2965-find-missing-and-repeated-values](https://github.com/abdul-rahman18/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abdul-rahman18/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abdul-rahman18/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [2336-smallest-number-in-infinite-set](https://github.com/abdul-rahman18/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abdul-rahman18/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/abdul-rahman18/Leetcode/tree/master/0705-design-hashset) |
+| [2336-smallest-number-in-infinite-set](https://github.com/abdul-rahman18/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Hash Function
 |  |
 | ------- |
@@ -328,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/abdul-rahman18/Leetcode/tree/master/0881-boats-to-save-people) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/abdul-rahman18/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
