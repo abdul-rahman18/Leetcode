@@ -13,7 +13,7 @@ public:
         st.insert(x);
         
         smallest++;
-        while(st.find(smallest) != st.end()) smallest++;
+        while(st.count(smallest)) smallest++;
 
         return x;
     }
