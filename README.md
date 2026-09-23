@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/abdul-rahman18/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/abdul-rahman18/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2336-smallest-number-in-infinite-set](https://github.com/abdul-rahman18/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
+| [2352-equal-row-and-column-pairs](https://github.com/abdul-rahman18/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2963-count-the-number-of-good-partitions](https://github.com/abdul-rahman18/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [2965-find-missing-and-repeated-values](https://github.com/abdul-rahman18/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abdul-rahman18/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abdul-rahman18/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/abdul-rahman18/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/abdul-rahman18/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2352-equal-row-and-column-pairs](https://github.com/abdul-rahman18/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abdul-rahman18/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2963-count-the-number-of-good-partitions](https://github.com/abdul-rahman18/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [2965-find-missing-and-repeated-values](https://github.com/abdul-rahman18/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/abdul-rahman18/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0827-making-a-large-island](https://github.com/abdul-rahman18/Leetcode/tree/master/0827-making-a-large-island) |
 | [1463-cherry-pickup-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [2352-equal-row-and-column-pairs](https://github.com/abdul-rahman18/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abdul-rahman18/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/abdul-rahman18/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Graph Theory
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/abdul-rahman18/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3174-clear-digits](https://github.com/abdul-rahman18/Leetcode/tree/master/3174-clear-digits) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/abdul-rahman18/Leetcode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 ## Combinatorics
