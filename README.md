@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/abdul-rahman18/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/abdul-rahman18/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abdul-rahman18/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/abdul-rahman18/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/abdul-rahman18/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2336-smallest-number-in-infinite-set](https://github.com/abdul-rahman18/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/abdul-rahman18/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/abdul-rahman18/Leetcode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abdul-rahman18/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1512-number-of-good-pairs](https://github.com/abdul-rahman18/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abdul-rahman18/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/abdul-rahman18/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/abdul-rahman18/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/abdul-rahman18/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/abdul-rahman18/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/abdul-rahman18/Leetcode/tree/master/1406-stone-game-iii) |
+| [1512-number-of-good-pairs](https://github.com/abdul-rahman18/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2963-count-the-number-of-good-partitions](https://github.com/abdul-rahman18/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [2965-find-missing-and-repeated-values](https://github.com/abdul-rahman18/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abdul-rahman18/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/abdul-rahman18/Leetcode/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abdul-rahman18/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/abdul-rahman18/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/abdul-rahman18/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
