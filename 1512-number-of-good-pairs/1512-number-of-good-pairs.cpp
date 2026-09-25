@@ -7,8 +7,7 @@ public:
 
         int cnt = 0;
         for(int i = 0; i < n; i++) {
-            cnt += mp[nums[i]];
-            mp[nums[i]]++;
+            cnt += mp[nums[i]]++;
         }
 
         return cnt;
