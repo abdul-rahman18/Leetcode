@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abdul-rahman18/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/abdul-rahman18/Leetcode/tree/master/0290-word-pattern) |
 | [0705-design-hashset](https://github.com/abdul-rahman18/Leetcode/tree/master/0705-design-hashset) |
+| [0823-binary-trees-with-factors](https://github.com/abdul-rahman18/Leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/abdul-rahman18/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/abdul-rahman18/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/abdul-rahman18/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/abdul-rahman18/Leetcode/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/abdul-rahman18/Leetcode/tree/master/0605-can-place-flowers) |
 | [0705-design-hashset](https://github.com/abdul-rahman18/Leetcode/tree/master/0705-design-hashset) |
+| [0823-binary-trees-with-factors](https://github.com/abdul-rahman18/Leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0827-making-a-large-island](https://github.com/abdul-rahman18/Leetcode/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/abdul-rahman18/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/abdul-rahman18/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/abdul-rahman18/Leetcode/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/abdul-rahman18/Leetcode/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/abdul-rahman18/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0823-binary-trees-with-factors](https://github.com/abdul-rahman18/Leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0877-stone-game](https://github.com/abdul-rahman18/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/abdul-rahman18/Leetcode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/abdul-rahman18/Leetcode/tree/master/1463-cherry-pickup-ii) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abdul-rahman18/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abdul-rahman18/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abdul-rahman18/Leetcode/tree/master/0242-valid-anagram) |
+| [0823-binary-trees-with-factors](https://github.com/abdul-rahman18/Leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0881-boats-to-save-people](https://github.com/abdul-rahman18/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abdul-rahman18/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abdul-rahman18/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
