@@ -2,17 +2,9 @@ class Solution {
 public:
     bool checkString(string s) {
 
-        bool foundB = false;
-        for(auto& c : s){
-            if(c == 'b') 
-            {
-                foundB = true;
-                continue;
-            }
+        string t = s;
+        sort(s.begin(), s.end());
 
-            if(foundB && c == 'a') return false;
-        }
-
-        return true;
+        return t == s;
     }
 };
